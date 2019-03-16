@@ -1,14 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Call me Sam</title>
+    <title>My name is Artur, I am...</title>
     <link>/</link>
-    <description>Recent content on Call me Sam</description>
+    <description>Recent content on My name is Artur, I am...</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>pl-pl</language>
+    <lastBuildDate>Sat, 16 Mar 2019 15:22:51 +0100</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sat, 16 Mar 2019 15:22:51 +0100</pubDate>
+      
+      <guid>/about/</guid>
+      <description>My name is Artur.</description>
+    </item>
+    
+    <item>
+      <title>Programmer</title>
+      <link>/programmer/</link>
+      <pubDate>Sat, 16 Mar 2019 15:22:32 +0100</pubDate>
+      
+      <guid>/programmer/</guid>
+      <description>I like Python programming language. I write apps for myself.
+ Django ToDo App App to tracking package Tornado boilerplate with Pure CSS  </description>
+    </item>
+    
+    <item>
+      <title>Electronic</title>
+      <link>/electronic/</link>
+      <pubDate>Sat, 16 Mar 2019 15:11:19 +0100</pubDate>
+      
+      <guid>/electronic/</guid>
+      <description> MQTT matrix panel GPS tracker AGS Bomb for paintball  </description>
+    </item>
     
   </channel>
 </rss>
